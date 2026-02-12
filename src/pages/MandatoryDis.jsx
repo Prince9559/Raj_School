@@ -4,7 +4,7 @@ import Docsinfo from "../component/Docsinfo";
 import Academics from "../component/Academics";
 import Staff from "../component/Staff";
 import SchoolDetails from "../component/SchoolDetails.jsx";
-import Class10result  from "../component/class10result.jsx";
+import Class10result  from "../../component/class10result.jsx";
 import Class12result from "../component/class12result.jsx";
 
 function MandatoryDis() {
